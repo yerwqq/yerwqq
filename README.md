@@ -6,7 +6,7 @@
 [Lolz Team](https://lolz.live/randomly)
 
 <p align="center">
- <img width="800px" src="https://github.com/randomlyweb/randomlyweb/blob/main/photo_2024-09-23_13-38-33.jpg" alt="qr"/>
+ <img width="500px" src="https://github.com/randomlyweb/randomlyweb/blob/main/photo_2024-09-23_13-38-33.jpg" alt="qr"/>
 </p>
 
 <!--
