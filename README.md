@@ -5,6 +5,9 @@
 [Telegram](https://t.me/randomlywebban)
 [Lolz Team](https://lolz.live/randomly)
 
+<p align="center">
+ <img width="200px" src="[img.png](https://github.com/randomlyweb/randomlyweb/blob/main/photo_2024-09-23_13-38-33.jpg)" alt="qr"/>
+</p>
 https://github.com/randomlyweb/randomlyweb/blob/main/photo_2024-09-23_13-38-33.jpg
 
 <!--
