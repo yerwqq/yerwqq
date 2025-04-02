@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100%" src="https://github.com/randomlyweb/randomlyweb/blob/main/pcit(4).png" alt="qr"/>
+ <img width="500px" src="https://github.com/randomlyweb/randomlyweb/blob/main/pcit(4).png" alt="qr"/>
 </p>
 Обо мне: Fullstack-разработчик и инженер автоматизации
 
