@@ -1,5 +1,5 @@
-<p align="left">
- <img width="200px" src="https://github.com/randomlyweb/randomlyweb/blob/main/photo_2024-09-23_13-38-33.jpg" alt="qr"/>
+<p align="center">
+ <img width="100%" src="https://github.com/randomlyweb/randomlyweb/blob/main/pcit(4).png" alt="qr"/>
 </p>
 Обо мне: Fullstack-разработчик и инженер автоматизации
 
