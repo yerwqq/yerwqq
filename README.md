@@ -5,8 +5,7 @@
 <h2>RU: Здравствуйте! Я Web Full Stack программист. Мои технологии также включают дизайн вашего сайта! Я могу сделать Telegram Bot для любой задачи. Любое ПО и любая программа. Мой стек технологий: Django v5. Django Rest Framework. React.JS. PostgreSQL/SQLite3</h2>
 
 ## Ссылки на меня:
-[Telegram](https://t.me/randomlywebban)
-[Lolz Team](https://lolz.live/randomly)
+[Telegram](https://t.me/yerwqq)
 
 
 <!--
